@@ -9560,85 +9560,91 @@
     {
       "EnglishName": "Raimon",
       "JapaneseName": "Raimon",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Raimon_emblem_new.png/revision/latest?cb=20171115062613",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e1/Raimon_FF_Emblema.png/revision/latest?cb=20210620190405&path-prefix=es",
       "Game": "IE1"
+    },
+    {
+      "EnglishName": "Raimon II",
+      "JapaneseName": "Raimon",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e1/Raimon_FF_Emblema.png/revision/latest?cb=20210620190405&path-prefix=es",
+      "Game": "IE2"
     },
     {
       "EnglishName": "Occult",
       "JapaneseName": "Occult",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/dd/Occult_emblem.png/revision/latest?cb=20200515174438",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/4/4a/Escudo_-_Occult_%28SD%29.png/revision/latest?cb=20231220153417&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Wild",
       "JapaneseName": "Nose",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/3c/Nosei_emblem.png/revision/latest?cb=20200515175033",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/9/92/Escudo_-_Wild_%28SD%29.png/revision/latest?cb=20240102131220&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Brainwashing",
       "JapaneseName": "Mikage Sennou",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/69/Mikage_Sennou%27s_Emblem.png/revision/latest?cb=20200515175223",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/b/b7/Escudo_-_Brain_%28Strikers%29.png/revision/latest?cb=20240105135927&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Otaku",
       "JapaneseName": "Shuuyou Meito",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Shuuyou_Meito_Emblem.png/revision/latest?cb=20200515175311",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/c/cc/Escudo_-_Otaku_%28SD%29.png/revision/latest?cb=20240107195534&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Royal Academy",
       "JapaneseName": "Teikoku Gakuen",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b4/Teikoku_Emblem.png/revision/latest?cb=20130324101801",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/5/52/Escudo_-_Royal_Academy_%28SD%29.png/revision/latest?cb=20231225133321&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Shuriken",
       "JapaneseName": "Sengoku Igajima",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9c/Sengoku_Igajima_emblem.png/revision/latest?cb=20200515175624",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/b/be/Escudo_-_Shuriken_%28SD%29.png/revision/latest?cb=20240110190201&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Farm",
       "JapaneseName": "Senbayama",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/16/Senbayama_Logo.png/revision/latest?cb=20200515175728",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/8/88/Escudo_-_Farm_%28SD%29.png/revision/latest?cb=20240114155232&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Kirkwood",
       "JapaneseName": "Kidokawa Seishuu",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9e/Kidokawa_Seishuu_%28GO%29_emblem.png/revision/latest?cb=20171126183137",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/4/40/Escudo_-_Kirkwood_%28SD%29.png/revision/latest?cb=20240117213804&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Zeus",
       "JapaneseName": "Zeus",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/59/Zeus_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/f/ff/Escudo_Zeus_FF.png/revision/latest?cb=20210620190427&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Inazuma Eleven",
       "JapaneseName": "Inazuma Eleven",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f7/Raimon_OB_symbol.png/revision/latest?cb=20200515174751",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/3/3d/Raimon_OB.png/revision/latest?cb=20140426090320&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Street Sally's",
       "JapaneseName": "Ichibangai",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/5e/Street_Sally%27s_Logo.png/revision/latest?cb=20200515180319",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/a/a3/Sallys_Emblema.png/revision/latest?cb=20140909201200&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Inazuma Kids FC",
       "JapaneseName": "Inazuma KFC",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Inazuma_KFC_Logo_Game.png/revision/latest?cb=20200515180441",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/6/60/Inazuma_Kids_FC_Emblema.png/revision/latest?cb=20170430201629&path-prefix=es",
       "Game": "IE1"
     },
     {
       "EnglishName": "Umbrella",
       "JapaneseName": "Kasamino",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ab/Kasamino_emblem.png/revision/latest?cb=20200515180533",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/9/96/Umbrella_Emblema.png/revision/latest?cb=20140909011811&path-prefix=es",
       "Game": "IE1"
     },
     {
@@ -9662,7 +9668,7 @@
     {
       "EnglishName": "Super Triple C",
       "JapaneseName": "Osaka Gals CCC",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/5/53/CCC_Osaka_Gals_emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/2/22/CCC_Emblema.png/revision/latest?cb=20140916003719&path-prefix=es",
       "Game": "IE2"
     },
     {
@@ -9692,19 +9698,19 @@
     {
       "EnglishName": "Epsilon Prime",
       "JapaneseName": "Epsilon Kai",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7b/Epsilon_Remastered_emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/8/8f/Epsilon_Plus_Logo.png/revision/latest?cb=20130328104257&path-prefix=es",
       "Game": "IE2"
     },
     {
       "EnglishName": "Royal Academy Redux",
       "JapaneseName": "Shin Teikoku Gakuen",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d6/Shin_Teikoku_emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/f/fa/Royal_Academy_Redux_Emblema.png/revision/latest?cb=20140917023308&path-prefix=es",
       "Game": "IE2"
     },
     {
       "EnglishName": "Prominence",
       "JapaneseName": "Prominence",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/7e/Prominence_Logo.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/7e/Prominence_Logo.png/revision/latest?cb=20120423115637&path-prefix=es",
       "Game": "IE2"
     },
     {
@@ -9722,37 +9728,37 @@
     {
       "EnglishName": "Dark Emperors",
       "JapaneseName": "Dark Emperors",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/1e/Dark_Emperors_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/0/0d/Emperadores_Oscuros_Emblema.png/revision/latest?cb=20160626203356&path-prefix=es",
       "Game": "IE2"
     },
     {
       "EnglishName": "Robot Guards",
       "JapaneseName": "Keibi Machines",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/ae/Keibi_Robots.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/9/96/Robots_Guardias_emblema.png/revision/latest?cb=20141003001202&path-prefix=es",
       "Game": "IE2"
     },
     {
       "EnglishName": "Forest Team",
       "JapaneseName": "Jukai Team",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/ff/Jukai_team.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/73/Mar_de_%C3%81rboles_Emblema.png/revision/latest?cb=20140920012341&path-prefix=es",
       "Game": "IE2"
     },
     {
       "EnglishName": "Young Inazuma",
       "JapaneseName": "Young Inazuma",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/61/Young_Inazuma_emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/2/23/J%C3%B3venes_Inazuma_Emblema.png/revision/latest?cb=20140908012129&path-prefix=es",
       "Game": "IE2"
     },
     {
       "EnglishName": "Inazuma National",
       "JapaneseName": "Inazuma Japan",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/81/Inazuma_Japan_emblem_new.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/b/b5/Escudo_-_Inazuma_Jap%C3%B3n.png/revision/latest?cb=20221028205856&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Neo National",
       "JapaneseName": "Neo Japan",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c3/Neo_Japan_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/70/Neo_Jap%C3%B3n_Emblema.png/revision/latest?cb=20140923215608&path-prefix=es",
       "Game": "IE3"
     },
     {
@@ -9794,49 +9800,49 @@
     {
       "EnglishName": "Unicorns",
       "JapaneseName": "Unicorn",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/47/Unicorn_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/1/1b/Unicorn_Emblema.png/revision/latest/scale-to-width-down/75?cb=20140927002005&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Orpheus",
       "JapaneseName": "Orpheus",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e7/Orpheus_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/3/3c/Orfeo_Emblema.png/revision/latest?cb=20140927211551&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "The Kingdom",
       "JapaneseName": "The Kingdom",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/12/The_Kingdom_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/0/0a/Os_Reis_Emblema.png/revision/latest/scale-to-width-down/75?cb=20140925193620&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Team Zoolan",
       "JapaneseName": "Team Garshield",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f2/Team_Garshield_Emblem.png",
+      "Sprite": "hhttps://static.wikia.nocookie.net/inazuma/images/4/46/Zoolan_Team_Emblema.png/revision/latest/scale-to-width-down/75?cb=20141001164849&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Little Gigantes",
       "JapaneseName": "Little Gigant",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ea/Little_Gigant_Emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/d/d1/Logo_peque%C3%B1os_gigantes.png/revision/latest/scale-to-width-down/75?cb=20110617155403&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Rose Griffons",
       "JapaneseName": "Rose Griffon",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Rose_Griffon_symbol.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/1/12/Grifos_de_la_Rosa_emblema.png/revision/latest?cb=20140930003638&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Red Matador",
       "JapaneseName": "Red Matador",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/42/Red_Matador_symbol2.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/4/46/Los_Rojos_Logo_%28VJ%29.png/revision/latest?cb=20140530183056&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Brocken Brigade",
       "JapaneseName": "Brockenborg",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/17/Brocken_Bogue_emblem.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/9/98/Brocken_Brigade_Emblema.png/revision/latest?cb=20140929201611&path-prefix=es",
       "Game": "IE3"
     },
     {
@@ -9848,187 +9854,226 @@
     {
       "EnglishName": "Team Ogre",
       "JapaneseName": "Ogre",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/a/a8/Ogre_Emblem.png",
-      "Game": "IE3"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/7b/Escudo_-_Equipo_Ogro.png/revision/latest?cb=20240125141536&path-prefix=es",
+      "Game": "IE1"
     },
     {
       "EnglishName": "Apostles from the Sky",
       "JapaneseName": "Tenkuu no Shito",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/fd/Tenkuu_no_Shito_symbol.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/4/47/Sky_Team_Emblema.png/revision/latest?cb=20141002003930&path-prefix=es",
       "Game": "IE3"
     },
     {
       "EnglishName": "Devil Army Z",
       "JapaneseName": "Makai Gundan Z",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/74/Makai_Gundan.png",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/a/a3/Dark_Team_Emblema.png/revision/latest?cb=20141002161537&path-prefix=es",
+      "Game": "IE3"
+    },
+    {
+      "EnglishName": "Chaos",
+      "JapaneseName": "Chaos",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/a/a3/Escudo_Caos.png/revision/latest?cb=20210620185754&path-prefix=es",
+      "Game": "IE2"
+    },
+    {
+      "EnglishName": "Dark Angels",
+      "JapaneseName": "Dark Angels",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/1/1b/%C3%81ngel_Oscuro_Emblema.png/revision/latest?cb=20141002231431&path-prefix=es",
       "Game": "IE3"
     }
   ],
   "coaches": [
     {
-      "EnglishName": "Wintersea",
-      "JapaneseName": "Fuyukai",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Fuyukaishot.png/revision/latest?cb=20200621104041"
-    },
-    {
       "EnglishName": "Hillman",
       "JapaneseName": "Hibiki",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/70/Hibiki_Seigou_coach_uniform.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/7a/Hillman_Ares.png/revision/latest?cb=20200615104007&path-prefix=es",
+      "Team": "Raimon"
     },
     {
       "EnglishName": "Jyde",
       "JapaneseName": "Jikiru",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/0/01/Jikiru_Haito_alter_ego.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e4/Jikiru-Haito.jpg/revision/latest?cb=20130516182242&path-prefix=es",
+      "Team": "Occult"
     },
     {
       "EnglishName": "Savage",
       "JapaneseName": "Tazan",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/4f/Tazan.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e5/Harry_Savage.jpg/revision/latest?cb=20120731005659&path-prefix=es",
+      "Team": "Wild"
     },
     {
       "EnglishName": "Thomas",
       "JapaneseName": "Toyama",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/b/b9/Toyama_Shinnichirou.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/9/9d/Mikage_sennou%27s_coach.jpg/revision/latest?cb=20120801170710&path-prefix=es",
+      "Team": "Brainwashing"
     },
     {
       "EnglishName": "Artic",
       "JapaneseName": "Maniya",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/29/Coach5shot.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/c/c7/Shuuyoumeitocoach.jpg/revision/latest?cb=20110727211459&path-prefix=es",
+      "Team": "Otaku"
     },
     {
       "EnglishName": "Dark",
       "JapaneseName": "Kageyama",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/37/Kageyamareijishot.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/9/91/Ray_Dark_Outer_Code.png/revision/latest?cb=20180505190426&path-prefix=es",
+      "Team": "Royal Academy"
     },
     {
       "EnglishName": "Igajima",
       "JapaneseName": "Igajima",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/3/34/Coach6shot.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/3/35/Igayima.png/revision/latest?cb=20200315144417&path-prefix=es",
+      "Team": "Shuriken"
     },
     {
       "EnglishName": "Newfield",
       "JapaneseName": "Shinno",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2c/Coach7shot.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e4/Se%C3%B1or_Newfield.png/revision/latest?cb=20160511151245&path-prefix=es",
+      "Team": "Farm"
     },
     {
       "EnglishName": "Nichols",
       "JapaneseName": "Nikaidou",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/71/Coach8shot.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/5/5f/250px-Vlcsnap-2012-04-10-01h22m22s226.png/revision/latest?cb=20120811155246&path-prefix=es",
+      "Team": "Kirkwood"
     },
     {
       "EnglishName": "David",
       "JapaneseName": "Daisuke",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/8/84/Daisuke_sprite_0.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/7f/David_Evans_IED.png/revision/latest?cb=20121126225621&path-prefix=es",
+      "Team": "Little Gigantes"
     },
     {
       "EnglishName": "Sweet",
       "JapaneseName": "Aida",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/db/Aida_Chikara_sprite.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/6/69/Arthur_Sweet_%28Anime%29.png/revision/latest?cb=20150321132419&path-prefix=es",
+      "Team": "Inazuma Kids FC"
     },
     {
       "EnglishName": "Loggan",
       "JapaneseName": "Kizaki",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/9/9a/Clint_Loggan.png/revision/latest?cb=20200512093612&path-prefix=es"
+      "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/9/9a/Clint_Loggan.png/revision/latest?cb=20200512093612&path-prefix=es",
+      "Team": "Umbrella"
     },
     {
       "EnglishName": "Lina",
       "JapaneseName": "Hitomiko",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/6/6c/Hitomiko_sprite_0.png/revision/latest?cb=20120206171535"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e4/Entrenadora1.jpg/revision/latest?cb=20110119151204&path-prefix=es",
+      "Team": "Raimon II"
+    },
+    {
+      "EnglishName": "Lina",
+      "JapaneseName": "Hitomiko",
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/e4/Entrenadora1.jpg/revision/latest?cb=20110119151204&path-prefix=es",
+      "Team": "Neo National"
     },
     {
       "EnglishName": "Alpine's coach",
       "JapaneseName": "Takayama",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d9/Tayakama.png/revision/latest?cb=20180705001918"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/eb/Entrenador_Tayakama.png/revision/latest?cb=20180110113747&path-prefix=es",
+      "Team": "Alpine"
     },
     {
       "EnglishName": "Cloister Divinity's coach",
       "JapaneseName": "Manyuuji's coach",
-      "Sprite": "https://i.imgur.com/JowymXG.png"
+      "Sprite": "https://i.imgur.com/JowymXG.png",
+      "Team": "Cloister Divinity"
     },
     {
       "EnglishName": "Fauxshore's coach",
       "JapaneseName": "Yokato's coach",
-      "Sprite": "https://i.imgur.com/Uy3sFyu.png"
+      "Sprite": "https://i.imgur.com/Uy3sFyu.png",
+      "Team": "Fauxhore"
     },
     {
       "EnglishName": "Mary Times' coach",
       "JapaneseName": "Oumihara's coach",
-      "Sprite": "https://i.imgur.com/TmOtP8m.png"
+      "Sprite": "https://i.imgur.com/TmOtP8m.png",
+      "Team": "Mary Times"
     },
     {
       "EnglishName": "Astram",
       "JapaneseName": "Seijirou",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/76/Kiraseijoroushot.png/revision/latest?cb=20120407072053"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/d/dd/Emperador.jpg/revision/latest?cb=20110113164242&path-prefix=es",
+      "Team": "Genesis"
     },
     {
       "EnglishName": "Wyles",
       "JapaneseName": "Kenzaki",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2f/Kenzakishot.png/revision/latest?cb=20120407071215"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/b/b1/Godric.png/revision/latest?cb=20180311153154&path-prefix=es",
+      "Team": "Dark Emperors"
     },
     {
       "EnglishName": "Percy",
       "JapaneseName": "Kudou",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/ee/Kudou_sprite_1.png/revision/latest?cb=20120206163152"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/2/21/Percival_Travis_Go_IED.png/revision/latest?cb=20121129180450&path-prefix=es",
+      "Team": "Inazuma National"
     },
     {
       "EnglishName": "Cliser",
       "JapaneseName": "Robert",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/2/2a/Coach19shot.png/revision/latest?cb=20120407070208"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/4/49/Roberto_xD.png/revision/latest?cb=20191201222109&path-prefix=es",
+      "Team": "Big Waves"
     },
     {
       "EnglishName": "Manon",
       "JapaneseName": "Eliza",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/1/10/Coach20shot.png/revision/latest?cb=20120407065610"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/2/23/250px-Eliza_Manon_2.png/revision/latest?cb=20120811153905&path-prefix=es",
+      "Team": "Desert Lions"
     },
     {
       "EnglishName": "Lee",
       "JapaneseName": "Jin Sung",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c5/Lee_Jin_Sung.png/revision/latest?cb=20200621165629"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/0/08/Lee_Jin_Sung.PNG/revision/latest?cb=20150310010524&path-prefix=es",
+      "Team": "Fire Dragon"
     },
     {
       "EnglishName": "Adams",
       "JapaneseName": "Aaron",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/d/d0/Coach18shot.png/revision/latest?cb=20120407065334"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/a/a1/Aaron_adams.png/revision/latest?cb=20120801165831&path-prefix=es",
+      "Team": "Knights of Queen"
     },
     {
       "EnglishName": "Stavín",
       "JapaneseName": "Daniel",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/2/2a/Daniel_Stav%C3%ADn_%28Sprite%29.png/revision/latest?cb=20191210135148&path-prefix=es"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/c/cf/2855-484905266.jpg/revision/latest?cb=20190630183540&path-prefix=es",
+      "Team": "The empire"
     },
     {
       "EnglishName": "Scride",
       "JapaneseName": "Mack",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma/images/c/c1/Mac_Scride_-_Sprite.png/revision/latest?cb=20191212215243&path-prefix=es"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/0/03/EP98_-_Mack_Scride.png/revision/latest?cb=20190302140908&path-prefix=es",
+      "Team": "Unicors"
     },
     {
       "EnglishName": "Mister D",
       "JapaneseName": "Mister K",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/4/46/Mrkshot1.png/revision/latest?cb=20120407072744"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/e/ee/Raydark.png/revision/latest?cb=20130321212855&path-prefix=es",
+      "Team": "Orpheus"
     },
     {
       "EnglishName": "Sams",
       "JapaneseName": "Leon",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/7/73/Leon_Sams_avatar.png/revision/latest?cb=20190527124036"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/3/35/LeonEP115.png/revision/latest?cb=20140730160556&path-prefix=es",
+      "Team": "The Kingdom"
     },
     {
       "EnglishName": "Zoolan",
       "JapaneseName": "Garshield",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/95/Garshieldshot1.png/revision/latest?cb=20120407071453"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/c/ce/212px-GarshieldEP117.png/revision/latest?cb=20120707184146&path-prefix=es",
+      "Team": "Team Zoolan"
     },
     {
       "EnglishName": "David",
       "JapaneseName": "Daisuke",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/e/e6/Daisuke_sprite_1.png/revision/latest?cb=20120206165100"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/7/7f/David_Evans_IED.png/revision/latest?cb=20121126225621&path-prefix=es",
+      "Team": "Young Inazuma"
     },
     {
       "EnglishName": "Bausen",
       "JapaneseName": "Bauzen",
-      "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/c/c2/Futureantagonistshot.png/revision/latest?cb=20120407065530"
-    },
-    {
-      "EnglishName": "Percy",
-      "JapaneseName": "Kudou",
-      "Sprite": "./images/coaches/tile000.png"
+      "Sprite": "https://static.wikia.nocookie.net/inazuma/images/3/3c/Drayce_Bausen_%28Pel%C3%ADcula%29.png/revision/latest?cb=20150308192000&path-prefix=es",
+      "Team": "Team Ogre"
     }
   ]
 }
